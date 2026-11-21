@@ -1,16 +1,13 @@
-## Hi there 👋
+# yo, i'm madshinei 👋
 
-<!--
-**madshinei/madshinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Singapore.
 
-Here are some ideas to get you started:
+- learning WebAssembly the slow way
+- currently deep in performance tuning
+- keeps notes about terminal tools that will never be published
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madshinei&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=madshinei&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img src="https://img.shields.io/badge/WebAssembly-ff7b72?style=for-the-badge&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Rust-ff7b72?style=for-the-badge&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/C-ff7b72?style=for-the-badge&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Linux-ff7b72?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-ff7b72?style=for-the-badge&logoColor=white" alt="Git" />
